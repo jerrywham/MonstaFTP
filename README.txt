@@ -1,5 +1,13 @@
+# Monsta FTP - Read Me
 
-Monsta FTP - Read Me
+## JW Additions
+
+Correction of plenty of undefined indexes in variables like $_SESSION, $_POST or $_GET
+and undefined variables like $skin or $langs, etc.
+
+Add french translation file.
+
+## Initial README
 
 Please open index.php in a text editor to:
 
